@@ -1,0 +1,7 @@
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\bin\Debug\CytusManiaMaker.exe.config
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\bin\Debug\CytusManiaMaker.exe
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\bin\Debug\CytusManiaMaker.pdb
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\obj\Debug\CytusManiaMaker.csprojAssemblyReference.cache
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\obj\Debug\CytusManiaMaker.csproj.CoreCompileInputs.cache
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\obj\Debug\CytusManiaMaker.exe
+C:\Users\shinkuan\source\repos\CytusManiaMaker\CytusManiaMaker\obj\Debug\CytusManiaMaker.pdb
